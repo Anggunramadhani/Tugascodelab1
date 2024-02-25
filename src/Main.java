@@ -1,4 +1,4 @@
-package com.tgscodelab1;
+package com.codelab1;
 
 import java.time.LocalDate;
 import java.time.Period;
